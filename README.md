@@ -1,7 +1,7 @@
 
 ## Email Intent Classifier with LangGraph
 
-This project builds an email intent classification system using a bag-of-words logistic regression model, and managed with LangGraph workflows.
+This project builds an email intent classification system using a bag-of-words logistic regression model, and managed with LangGraph workflows. So far can find the intent types of ReKYC, PolicyRenewal, ClaimsIntake.
 
 ## Installations
 
@@ -22,6 +22,6 @@ Put email in then press enter to get results and it automaticly puts the results
 
 Uses LangGraph to connect how email is inputed, evaluated, and printed out on terminal and emails file.
 
-## Futer
+## Future
  
 Could add a picture generator to show the ratio of each intent type you get and increase the amount of intent types it can find.
